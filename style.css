@@ -16,13 +16,10 @@
 }
 .footer {
     width: 450px;
-    text-align: center;
-    display: block;
-    margin: 5px auto 5px auto;
+    margin: auto;
     font-size: 0.8em;
   }
   .footer a {
     font-weight: 500;
     text-decoration: none;
-
   }
