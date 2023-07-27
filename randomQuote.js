@@ -55,7 +55,7 @@ const App = () => {
                         } 
                         target = "_blank" className="btn btn-primary"><i class="fa fa-twitter"></i></a>
                     </div><br/>
-                    <div class="footer">by <a href="https://github.com/huynhat30">Huy Giang <i class="fa fa-github"></i></a></div>
+                    <div class="footer">By <a href="https://github.com/huynhat30">Huy Giang <i class="fa fa-github"></i></a></div>
             </div>
             
         </div>

@@ -4,19 +4,21 @@
 }
 
 #quote-box{
-    position: relative;
-    top:30%;
+    position: absolute;
+    top:25%;
+    left: 18%;
     margin: auto;
     padding: auto;
     width: 70vw;
     height: auto;
 }
 .jumbotron{
+    position:relative;
     border-radius: 55px;
 }
 .footer {
-    width: 450px;
-    margin: auto;
+    position:relative;
+    width: auto;
     font-size: 0.8em;
   }
   .footer a {
